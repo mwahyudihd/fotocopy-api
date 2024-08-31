@@ -1,0 +1,1 @@
+<script>var data = prompt('Enter Data...'); alert(data); location.reload();</script>
