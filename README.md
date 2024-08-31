@@ -73,9 +73,14 @@ This API was created as a beckend project of the [Fotocopy app (Flutter mobile)]
 
 ## Tech Stack
 
-- **Framework:** ![CSS](https://img.shields.io/badge/codeigniter_4-800000?style=for-the-badge&logo=codeigniter&logoColor=white)
-- **Database** ![CSS](https://img.shields.io/badge/My_Sql-blue?style=for-the-badge&logo=mysql&logoColor=white)
-- **Data Type** ![CSS](https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=json&logoColor=white)
+- **Framework:** <br> 
+  ![CSS](https://img.shields.io/badge/codeigniter_4-800000?style=for-the-badge&logo=codeigniter&logoColor=white)
+
+- **Database:** <br>
+  ![CSS](https://img.shields.io/badge/My_Sql-blue?style=for-the-badge&logo=mysql&logoColor=white)
+
+- **Data Type:** <br>
+  ![CSS](https://img.shields.io/badge/JSON-yellow?style=for-the-badge&logo=json&logoColor=white)
 
 ## Features
 
