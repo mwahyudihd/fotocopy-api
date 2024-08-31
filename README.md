@@ -69,7 +69,7 @@ Additionally, make sure that the following extensions are enabled in your PHP:
 
 # fotocopy-api
 
-This API was created as a beckend project of the [Fotocopy app (Flutter mobile)](fotocopy-app2) that I created to process user/employee data, products, services, and attendance.
+This API was created as a beckend project of the [Fotocopy app (Flutter mobile)](https://github.com/mwahyudihd/fotocopy-app2) that I created to process user/employee data, products, services, and attendance.
 
 ## Tech Stack
 
